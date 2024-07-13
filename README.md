@@ -3,7 +3,19 @@
 <picture>
   
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaddyZz/snk/output/github-contribution-grid-snake-dark-snkSize5.svg" />
+
+ <img>
+</picture>
+<picture>
+  
+
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaddyZz/snk/output/github-contribution-grid-snake-dark-snkSize6.svg" />
+
+ <img>
+</picture>
+<picture>
+  
+
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaddyZz/snk/output/github-contribution-grid-snake-dark-snkSize7.svg" />
  <img>
 </picture>
