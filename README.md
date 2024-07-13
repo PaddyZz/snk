@@ -1,4 +1,16 @@
-# snk
+# sssnk
+
+<picture>
+  
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaddyZz/snk/output/github-contribution-grid-snake-dark-snkSize5.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaddyZz/snk/output/github-contribution-grid-snake-dark-snkSize6.svg" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaddyZz/snk/output/github-contribution-grid-snake-dark-snkSize7.svg" />
+ <img>
+</picture>
+
+"The SNK body length could be increased from 5 to 7 and its getting larger after a few adjustments to the SNK SVGs mentioned above. The source code for generating the SNK SVGs still includes some shortcuts and isn't quite stable, as it fails to generate the SVGs consistently with the same SNK size and contribution charts with larger commits. This means that the larger the commits are, the more complex the SNK moving path becomes."
+
+========================================================================================================================================================================================================================================================================================================================================================================================================================================
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
 [![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
